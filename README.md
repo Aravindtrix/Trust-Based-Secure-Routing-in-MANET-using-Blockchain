@@ -64,6 +64,9 @@ In MANETs, ensuring secure data transmission is extremely challenging due to:
 - Reduced Delay ✅  
 - Mitigated Routing Attacks ✅  
 - Verified Trustworthiness of Nodes ✅
+![5-Figure5-1](https://github.com/user-attachments/assets/c2cbd158-fb7f-4e8f-8bed-ea955dca78b4)
+
+![3-Figure1-1](https://github.com/user-attachments/assets/2d99ad59-c160-49db-9b7b-964cb7ec2b13)
 
 ---
 
